@@ -83,7 +83,7 @@ const Index = () => {
                 
                 <div className="flex justify-center space-x-6 mb-8">
                   <a 
-                    href="https://vk.com" 
+                    href="https://hrust.link/ref/1160d371cd" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg transition-colors"
@@ -92,7 +92,7 @@ const Index = () => {
                     ВКонтакте
                   </a>
                   <a 
-                    href="https://t.me" 
+                    href="https://hrust.link/ref/1160d371cd" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg transition-colors"
