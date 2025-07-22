@@ -78,7 +78,7 @@ const Index = () => {
                 </div>
                 
                 <p className="text-xl text-gray-200 mb-8">
-                  Бонусы от 100 рублей за привязку ВК и Telegram
+                  Бездепозитный бонус от 100 рублей за привязку ВК и Telegram(Вейджера нету можно сразу вывести!)
                 </p>
                 
                 <div className="flex justify-center space-x-6 mb-8">
