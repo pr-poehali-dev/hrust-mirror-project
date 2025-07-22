@@ -22,7 +22,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <img 
-              src="/img/5276434b-ef2c-4a84-aef4-10832a14359f.jpg" 
+              src="https://cdn.poehali.dev/files/04ea8a5b-48b7-48b5-95f2-146de68dd4fa.png" 
               alt="HRUST Casino" 
               className="h-12 w-auto"
             />
@@ -221,7 +221,7 @@ const Index = () => {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center mb-4">
             <img 
-              src="/img/5276434b-ef2c-4a84-aef4-10832a14359f.jpg" 
+              src="https://cdn.poehali.dev/files/04ea8a5b-48b7-48b5-95f2-146de68dd4fa.png" 
               alt="HRUST Casino" 
               className="h-8 w-auto mr-3"
             />
