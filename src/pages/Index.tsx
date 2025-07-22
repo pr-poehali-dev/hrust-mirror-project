@@ -4,7 +4,7 @@ import Icon from "@/components/ui/icon";
 
 const Index = () => {
   const handleLogin = () => {
-    window.open('https://hrust.casino/', '_blank');
+    window.open('https://hrust.link/ref/1160d371cd', '_blank');
   };
 
   const games = [
