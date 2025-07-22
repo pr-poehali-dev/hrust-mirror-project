@@ -77,8 +77,11 @@ const Index = () => {
                   <h3 className="text-3xl font-bold text-white">Эксклюзивные бонусы</h3>
                 </div>
                 
-                <p className="text-xl text-gray-200 mb-8">
-                  Бездепозитный бонус от 100 рублей за привязку ВК и Telegram(Вейджера нету можно сразу вывести!)
+                <p className="text-xl text-gray-200 mb-4">
+                  Бездепозитный бонус от 100 рублей за привязку ВК и Telegram
+                </p>
+                <p className="text-lg text-green-400 mb-8 font-semibold">
+                  Вейджера нету можно сразу вывести!
                 </p>
                 
                 <div className="flex justify-center space-x-6 mb-8">
